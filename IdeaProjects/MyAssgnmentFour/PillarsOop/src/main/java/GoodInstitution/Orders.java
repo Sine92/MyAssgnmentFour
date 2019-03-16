@@ -10,7 +10,7 @@ public class Orders {
     private boolean available;
     public double price = 120.00;
 
-    private Orders()
+    public Orders()
     {
 
     }
@@ -20,6 +20,7 @@ public class Orders {
         this.cheeseBurger = kewuti.cheeseBurger;
         this.beefBurger = kewuti.beefBurger;
         this.available = kewuti.available;
+        this.price = kewuti.price;
 
 
     }
@@ -53,26 +54,32 @@ public class Orders {
         private String cheeseBurger;
         private String beefBurger;
         private boolean available;
+        private double price;
 
 
-        public Orders.Builder OrderId(int value)
+        public Builder OrderId(int value)
         {
             this.orderId = value;
             return this;
         }
-        public Orders.Builder CheeseBurger(String value)
+        public Builder CheeseBurger(String value)
         {
             this.cheeseBurger = value;
             return this;
         }
-        public Orders.Builder BeefBurger(String value){
+        public Builder BeefBurger(String value){
             this.beefBurger = value;
             return this;
         }
-        public Orders.Builder Available(boolean value)
+        public Builder Available(boolean value)
         {
             this.available = value;
             return this;
+        }
+        public Builder price(double value)
+        {
+          this.price = value;
+          return this;
         }
         public Orders build()
         {
