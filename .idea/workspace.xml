@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ae381d4-7ba7-4295-8cad-e78a2d24dfab" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/PillarsOop/target/" />
+    <ignored path="$PROJECT_DIR$/OpenClosedPrinciples/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PillarsOop/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Pastor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/za/ac/cput/projects/Pastor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pastor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Pastor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bible.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Bible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="John.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/John.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matthew.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Matthew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PastorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/test/java/za/ac/cput/projects/PastorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/PillarsOop/pom.xml" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/Father.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/RunFamily.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/za/ac/cput/projects/SonTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/Son.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/Daddy.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/Girl.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/Boy.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/ac/Question2/BoyTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/ac/Question2/RunFamTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/RunFam.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/ac/Question2/GirlTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/NokiaSRP/Menu.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Animals/Animals.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Admin.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/ap/Institution/StudentTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Lecture.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Student.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Calculator.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/CalculatorBrands.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/ap/Institution/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Order.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/ap/Institution/OrderTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/CalculateOrderPrice.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/OrderPrice.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/Orders.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/GoodInstitution/OrdersTest.java" />
+        <option value="$PROJECT_DIR$/PillarsOop/src/test/java/GoodInstitution/OrderPriceTest.java" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/pom.xml" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/src/test/java/za/ac/cput/projects/PastorTest.java" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/za/ac/cput/projects/Pastor.java" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Bible.java" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Matthew.java" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/John.java" />
+        <option value="$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Pastor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Dell\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\Dell\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="y" value="6" />
+    <option name="width" value="685" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyAssgnmentFour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAssgnmentFour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAssgnmentFour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAssgnmentFour" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenClosedPrinciples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAssgnmentFour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAssgnmentFour" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenClosedPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAssgnmentFour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAssgnmentFour" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenClosedPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAssgnmentFour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAssgnmentFour" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenClosedPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAssgnmentFour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAssgnmentFour" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenClosedPrinciples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="GoodOpenClosed" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cput.projects" />
+      <recent name="GoodInstitution" />
+      <recent name="ap.Institution" />
+      <recent name="ac.Question2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PastorTest.testJohn">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="OrderPriceTest.calculatePrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PillarsOop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoodInstitution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="GoodInstitution" />
+      <option name="MAIN_CLASS_NAME" value="GoodInstitution.OrderPriceTest" />
+      <option name="METHOD_NAME" value="calculatePrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OrderTest.getPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PillarsOop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ap.Institution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ap.Institution" />
+      <option name="MAIN_CLASS_NAME" value="ap.Institution.OrderTest" />
+      <option name="METHOD_NAME" value="getPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PastorTest.getScripture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OpenClosedPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.PastorTest" />
+      <option name="METHOD_NAME" value="getScripture" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PastorTest.testAnother" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OpenClosedPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.PastorTest" />
+      <option name="METHOD_NAME" value="testAnother" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PastorTest.testJohn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OpenClosedPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="za.ac.cput.projects" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.projects.PastorTest" />
+      <option name="METHOD_NAME" value="testJohn" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.OrderTest.getPrice" />
+      <item itemvalue="JUnit.OrderPriceTest.calculatePrice" />
+      <item itemvalue="JUnit.PastorTest.getScripture" />
+      <item itemvalue="JUnit.PastorTest.testAnother" />
+      <item itemvalue="JUnit.PastorTest.testJohn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PastorTest.testJohn" />
+        <item itemvalue="JUnit.PastorTest.testAnother" />
+        <item itemvalue="JUnit.PastorTest.getScripture" />
+        <item itemvalue="JUnit.OrderPriceTest.calculatePrice" />
+        <item itemvalue="JUnit.OrderTest.getPrice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae381d4-7ba7-4295-8cad-e78a2d24dfab" name="Default" comment="" />
+      <created>1552489445132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552489445132</updated>
+      <workItem from="1552489452555" duration="44270000" />
+      <workItem from="1552651703540" duration="7641000" />
+      <workItem from="1552660756574" duration="3496000" />
+      <workItem from="1552766206610" duration="10563000" />
+      <workItem from="1552941605955" duration="161000" />
+      <workItem from="1552947596254" duration="733000" />
+      <workItem from="1553695744077" duration="20679000" />
+      <workItem from="1553810011400" duration="2218000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commiting Assignment 4">
+      <created>1552771474678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552771474678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commiting Assignment 4">
+      <created>1552773207886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552773207887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commiting Assignment 4">
+      <created>1552775817512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552775817512</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PastorTest_getScripture - 2019.03.27 at 19h 40m 13s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.27 at 19h 43m 58s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.27 at 19h 44m 44s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.28 at 01h 02m 33s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.28 at 01h 07m 48s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.28 at 01h 09m 49s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.28 at 01h 11m 52s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_getScripture - 2019.03.28 at 01h 12m 40s.xml">
+      <configuration name="PastorTest.getScripture" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_testAnother - 2019.03.28 at 01h 15m 56s.xml">
+      <configuration name="PastorTest.testAnother" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PastorTest_testJohn - 2019.03.28 at 02h 02m 57s.xml">
+      <configuration name="PastorTest.testJohn" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89761000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32913387" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3396779" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2992126" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting Assignment 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting Assignment 4" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PillarsOop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/Order.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Student.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/StudentMarks.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/Daughter.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/GrandDaughter.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/GrandSon.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/RunFamily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/ac/Question2/RunFamTest.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/RunFam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/ac/Question2/BoyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/ac/Question2/GirlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/Girl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ac/Question2/Daddy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/za/ac/cput/projects/SonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/NokiaSRP/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Animals/Cat.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Animals/Animals.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/za/ac/cput/projects/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/ap/Institution/StudentTest.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Lecture.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Admin.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/StudentMarks.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Student.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/Order.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/CalculatorBrands.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/ap/Institution/CalculatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/PillarsOop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/ap/Institution/OrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="50" column="87" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/CalculateOrderPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/ap/Institution/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/GoodInstitution/OrdersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/main/java/GoodInstitution/OrderPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PillarsOop/src/test/java/GoodInstitution/OrderPriceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="94" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/test/java/za/ac/cput/projects/PastorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Bible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/John.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/za/ac/cput/projects/Pastor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Pastor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenClosedPrinciples/src/main/java/GoodOpenClosed/Matthew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
